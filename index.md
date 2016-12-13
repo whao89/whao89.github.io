@@ -2,23 +2,23 @@
 layout: default
 ---
 
-### About me
+## About me
 
 I am a PhD candidate at Princeton University at the Lewis-Sigler Institute for Integrative Genomics.
 
 
-### Interests
+## Interests
 
 doo doo doo
 
-### Publications
+## Publications
 
 doo doo doo
 
-### Software
+## Software
 
 doo doo doo
 
-### Teaching
+## Teaching
 
 doo doo doo
