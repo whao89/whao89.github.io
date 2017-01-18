@@ -10,7 +10,6 @@ Github: https://github.com/whao89
 
 ## Interests
 
-Broadly speaking, I'm interested in modeling latent variation 
 
 ## Publications
 
