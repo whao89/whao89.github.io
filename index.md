@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD candidate at Princeton University at the Lewis-Sigler Institute for Integrative Genomics.
 
-Github: https://github.com/whao89
+Github: [https://github.com/whao89](https://github.com/whao89)
 
 ## Interests
 
