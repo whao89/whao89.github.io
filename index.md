@@ -19,7 +19,7 @@ Spring 2017: QCB 408/508, Foundations of Applied Statistics and Data Science (wi
 
 Spring 2016: SML 201, Introduction to Data Science, with Prof. Storey, [site](https://sml201.github.io).
 
-Spring 2015: COS 424, Interacting with Data, with Prof. Engelhardt, [info](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=010279&term=1154).
+Spring 2015: COS 424, Interacting with Data, with Prof. Barbara Engelhardt, [info](https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=010279&term=1154).
 
 ## Other
 
