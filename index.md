@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-![me](wei.jpg){:class="img-responsive"}
+![me](wei.jpg){:class="img-responsive"}{:height="75px" width="75px"}
 
 I am a PhD candidate at Princeton University at the Lewis-Sigler Institute for Integrative Genomics. I am advised by [John D. Storey](http://genomine.org). In the summer of 2017, I worked at Facebook as a Software Engineering/Machine Learning intern.
 
