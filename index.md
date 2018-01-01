@@ -6,7 +6,7 @@ layout: default
 
 ![me](wei.jpg){:class="img-responsive"}{:height="100px" width="100px"} 
 
-I am a PhD candidate at Princeton University at the Lewis-Sigler Institute for Integrative Genomics. I am advised by [John D. Storey](http://genomine.org). In the summer of 2017, I worked at Facebook as a Software Engineering/Machine Learning intern.
+I am a PhD candidate at Princeton University at the Lewis-Sigler Institute for Integrative Genomics. I am advised by [John D. Storey](http://genomine.org). In the summer of 2017, I worked at Facebook as a Software Engineering (Machine Learning) intern.
 
 
 ## Publications
