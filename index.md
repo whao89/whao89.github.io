@@ -11,7 +11,7 @@ I did my PhD in Computational Biology at the Lewis-Sigler Institute for Integrat
 
 ## Publications
 
-1. **Wei Hao** & John D. Storey. *Extending Tests of Hardy-Weinberg Equilibrium to Structured Populations*, **bioRxiv pre-print** [doi](https://doi.org/10.1101/240804).
+1. **Wei Hao** & John D. Storey. *Extending Tests of Hardy-Weinberg Equilibrium to Structured Populations* (2019), **Genetics**; [doi](https://doi.org/10.1534/genetics.119.302370); software is part of [4].
 2. Prem Gopalan, **Wei Hao**, David M. Blei, & John D. Storey. *Scaling probabilistic models of genetic variation to millions of humans* (2016), **Nature Genetics**; [doi](http://dx.doi.org/10.1038/ng.3710); [software](http://github.com/Storeylab/terastructure).
 3. Minsun Song\*, **Wei Hao**\*, & John D. Storey. *Testing for genetic associations in arbitrarily structured populations* (2015), **Nature Genetics**; [doi](http://dx.doi.org/10.1038/ng.3244); [software](http://github.com/StoreyLab/gcatest).
 4. **Wei Hao**\*, Minsun Song\*, & John D. Storey. *Probabilistic models of genetic variation in structured populations applied to global human studies* (2015), **Bioinformatics**; [doi](http://dx.doi.org/10.1093/bioinformatics/btv641); [software](http://github.com/StoreyLab/lfa).
